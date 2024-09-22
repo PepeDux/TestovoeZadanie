@@ -1,0 +1,14 @@
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\bin\Debug\net8.0\TestovoeZadanie.exe
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\bin\Debug\net8.0\TestovoeZadanie.deps.json
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\bin\Debug\net8.0\TestovoeZadanie.runtimeconfig.json
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\bin\Debug\net8.0\TestovoeZadanie.dll
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\bin\Debug\net8.0\TestovoeZadanie.pdb
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.AssemblyInfoInputs.cache
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.AssemblyInfo.cs
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.csproj.CoreCompileInputs.cache
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.dll
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\refint\TestovoeZadanie.dll
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.pdb
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\TestovoeZadanie.genruntimeconfig.cache
+C:\Users\PepeDux\source\repos\TestovoeZadanie\TestovoeZadanie\obj\Debug\net8.0\ref\TestovoeZadanie.dll
